@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Data Science, Machine Learning and Deep Learning.**
 
-- 👨‍💻 All of my projects are available at <a href="https://kaggle.com/https://www.kaggle.com/mcarujo" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.kaggle.com/mcarujo"/></a>
+- 👨‍💻 All of my projects are available at <a href="https://www.kaggle.com/mcarujo" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
 
 - 💬 Ask me about **How to solve problem with data!**
 
 - 📫 How to reach me <img align="center" src="https://img.shields.io/badge/mamcarujo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 
-- 📄 Know about my experiences here on <a href="https://linkedin.com/in/https://www.linkedin.com/in/marcocarujo/" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="https://www.linkedin.com/in/marcocarujo/"/></a>
+- 📄 Know about my experiences here on <a href="https://www.linkedin.com/in/marcocarujo/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 - ⚡ Fun fact **I am a gammer.**  <a href="https://steamcommunity.com/profiles/76561198078811084" target="blank"><img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 
