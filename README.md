@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences here on <a href="https://www.linkedin.com/in/marcocarujo/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-- ⚡ Fun fact **I am a gammer.**  <a href="https://steamcommunity.com/profiles/76561198078811084" target="blank"><img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+- ⚡ Fun fact **I am a gamer.**  <a href="https://steamcommunity.com/profiles/76561198078811084" target="blank"><img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
